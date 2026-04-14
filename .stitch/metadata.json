@@ -1,0 +1,20 @@
+{
+  "name": "projects/2354541534998817324",
+  "projectId": "2354541534998817324",
+  "title": "Smart Hospital Appointment System",
+  "designTheme": {
+    "colorMode": "LIGHT",
+    "font": "INTER",
+    "roundness": "ROUND_EIGHT",
+    "customColor": "#0EA5E9"
+  },
+  "screens": {
+    "landing": "cee1d9be22a84be7b66af95d0e8f9966",
+    "login": "step-20",
+    "hospitals": "step-21",
+    "token-status": "step-22",
+    "book-appointment": "step-25",
+    "hospital-dashboard": "step-26",
+    "health-records": "step-27"
+  }
+}
