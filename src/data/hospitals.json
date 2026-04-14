@@ -1,0 +1,152 @@
+[
+  {
+    "id": "hosp001",
+    "name": "Apollo Hospital",
+    "city": "Delhi",
+    "address": "Sarita Vihar, Delhi, 110076",
+    "rating": 4.8,
+    "specializations": ["Cardiology", "Neurology", "Orthopedics", "Pediatrics"],
+    "doctors": [
+      {
+        "id": "doc001",
+        "name": "Dr. Rajesh Sharma",
+        "specialization": "Cardiology",
+        "timeSlots": ["09:00 AM", "10:00 AM", "11:00 AM", "02:00 PM", "03:00 PM"]
+      },
+      {
+        "id": "doc002",
+        "name": "Dr. Priya Mehta",
+        "specialization": "Neurology",
+        "timeSlots": ["10:00 AM", "11:00 AM", "12:00 PM", "04:00 PM"]
+      },
+      {
+        "id": "doc003",
+        "name": "Dr. Arun Kumar",
+        "specialization": "Orthopedics",
+        "timeSlots": ["09:00 AM", "10:30 AM", "02:00 PM", "03:30 PM", "05:00 PM"]
+      }
+    ],
+    "tokenCounter": 0
+  },
+  {
+    "id": "hosp002",
+    "name": "AIIMS",
+    "city": "Mumbai",
+    "address": "Andheri West, Mumbai, 400058",
+    "rating": 4.9,
+    "specializations": ["General Medicine", "Surgery", "Dermatology", "ENT"],
+    "doctors": [
+      {
+        "id": "doc004",
+        "name": "Dr. Sunita Verma",
+        "specialization": "General Medicine",
+        "timeSlots": ["09:30 AM", "10:30 AM", "11:30 AM", "02:30 PM"]
+      },
+      {
+        "id": "doc005",
+        "name": "Dr. Vikram Singh",
+        "specialization": "Surgery",
+        "timeSlots": ["08:00 AM", "10:00 AM", "01:00 PM", "03:00 PM"]
+      }
+    ],
+    "tokenCounter": 0
+  },
+  {
+    "id": "hosp003",
+    "name": "Fortis Hospital",
+    "city": "Bangalore",
+    "address": "Bannerghatta Road, Bangalore, 560076",
+    "rating": 4.7,
+    "specializations": ["Oncology", "Cardiology", "Gastroenterology"],
+    "doctors": [
+      {
+        "id": "doc006",
+        "name": "Dr. Meena Iyer",
+        "specialization": "Oncology",
+        "timeSlots": ["09:00 AM", "11:00 AM", "02:00 PM", "04:00 PM"]
+      },
+      {
+        "id": "doc007",
+        "name": "Dr. Rahul Nair",
+        "specialization": "Cardiology",
+        "timeSlots": ["10:00 AM", "12:00 PM", "03:00 PM", "05:00 PM"]
+      },
+      {
+        "id": "doc008",
+        "name": "Dr. Kavitha Rao",
+        "specialization": "Gastroenterology",
+        "timeSlots": ["09:30 AM", "11:30 AM", "02:30 PM"]
+      }
+    ],
+    "tokenCounter": 0
+  },
+  {
+    "id": "hosp004",
+    "name": "Max Healthcare",
+    "city": "Chennai",
+    "address": "T Nagar, Chennai, 600017",
+    "rating": 4.6,
+    "specializations": ["Ophthalmology", "Dentistry", "Pediatrics"],
+    "doctors": [
+      {
+        "id": "doc009",
+        "name": "Dr. Lakshmi Subramanian",
+        "specialization": "Ophthalmology",
+        "timeSlots": ["09:00 AM", "10:00 AM", "11:00 AM", "03:00 PM"]
+      },
+      {
+        "id": "doc010",
+        "name": "Dr. Arjun Reddy",
+        "specialization": "Dentistry",
+        "timeSlots": ["10:00 AM", "12:00 PM", "02:00 PM", "04:00 PM"]
+      }
+    ],
+    "tokenCounter": 0
+  },
+  {
+    "id": "hosp005",
+    "name": "Medanta Hospital",
+    "city": "Kolkata",
+    "address": "Salt Lake, Kolkata, 700091",
+    "rating": 4.5,
+    "specializations": ["Nephrology", "Urology", "Pulmonology"],
+    "doctors": [
+      {
+        "id": "doc011",
+        "name": "Dr. Soumya Banerjee",
+        "specialization": "Nephrology",
+        "timeSlots": ["09:00 AM", "11:00 AM", "01:00 PM", "04:00 PM"]
+      },
+      {
+        "id": "doc012",
+        "name": "Dr. Amit Das",
+        "specialization": "Urology",
+        "timeSlots": ["10:00 AM", "12:00 PM", "03:00 PM"]
+      }
+    ],
+    "tokenCounter": 0
+  },
+  {
+    "id": "hosp006",
+    "name": "KIMS Hospital",
+    "city": "Hyderabad",
+    "address": "Secunderabad, Hyderabad, 500003",
+    "rating": 4.4,
+    "specializations": ["Psychiatry", "Neurosurgery", "Plastic Surgery"],
+    "doctors": [
+      {
+        "id": "doc013",
+        "name": "Dr. Ananya Reddy",
+        "specialization": "Psychiatry",
+        "timeSlots": ["09:00 AM", "11:00 AM", "02:00 PM"]
+      },
+      {
+        "id": "doc014",
+        "name": "Dr. Kiran Chandra",
+        "specialization": "Neurosurgery",
+        "timeSlots": ["08:00 AM", "10:00 AM", "01:00 PM", "03:00 PM"]
+      }
+    ],
+    "tokenCounter": 0
+  }
+]
